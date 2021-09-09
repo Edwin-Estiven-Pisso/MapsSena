@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MapaSena</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tituloSena">UBICACION DEL SENA - CAUCA</string>
+    <string name="subtitulo1">Centro de Teleinformatica y Producción Industrial</string>
+    <string name="descripcionAdsi">(ADSI) NºFICHA 2067960</string>
+    <string name="boton1">MAPAS</string>
+    <string name="titulo2">MAPAS</string>
+    <string name="seleccioneMapa">== Seleccione Un Mapa ==</string>
+    <string name="mapa1">SATELITAL</string>
+    <string name="mapa2">HIBRIDO</string>
+    <string name="mapa3">NORMAL</string>
+    <string name="mapa4">TERRANIO</string>
+    <string name="title_activity_mapa_satelital">Map</string>
+    <string name="title_activity_mapa_normal">Map</string>
+    <string name="title_activity_mapa_terranio">Map</string>
+    <string name="title_activity_mapa_hibrido">Map</string>
+    <string name="tituloSatelital">MAPA SATELITAL</string>
+    <string name="tituloHibrido">MAPA HIBRIDO</string>
+    <string name="tituloNormal">MAPA NORMAL</string>
+    <string name="tituloTerranio">MAPA TERRANIO</string>
+</resources>
