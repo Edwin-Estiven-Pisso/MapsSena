@@ -43,7 +43,7 @@ public class MapaHibrido extends FragmentActivity implements OnMapReadyCallback 
         LatLng sydney = new LatLng(2.483134147619325, -76.56191176065205); /*COORDENADAS DE MI CASA--> 2.489707,-76.564075________2.5109186,-76.2559189*/
         mMap.addMarker(new MarkerOptions().position(sydney)
                 .snippet("Aprendiz: Edwin Estiven Pisso - ADSI NºFicha 2067960")
-                .icon(BitmapDescriptorFactory.fromResource(R.drawable.common_full_open_on_phone))
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.icono_ubicacion))
                 .title("ESTAS EN EL SENA - CTPI REGIONAL CAUCA"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
         mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);  // <--- AQUI CAMBIAMOS EL ESTILO DEL MAPA

@@ -63,6 +63,7 @@
         android:id="@+id/btnMapas"
         android:layout_width="220dp"
         android:layout_height="51dp"
+        android:backgroundTint="@color/azul_500"
         android:text="@string/boton1"
         android:textSize="17dp"
         app:layout_constraintBottom_toBottomOf="parent"
